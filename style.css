@@ -1,8 +1,13 @@
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */
+<<<<<<< HEAD
 border-width: thick;
   background: #00b3e6;
+=======
+  
+  background-color: #00b3eb;
+>>>>>>> c9e84411986524e27b5c8bf4cb1d0e66d35a22af
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
@@ -24,5 +29,9 @@ padding: 30px;
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+<<<<<<< HEAD
 font-style: italic
+=======
+font-size: italic
+>>>>>>> c9e84411986524e27b5c8bf4cb1d0e66d35a22af
 }
